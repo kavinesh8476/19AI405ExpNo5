@@ -59,3 +59,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## RESULT:
+Thus, Simple Hill Climbing Algorithm was implemented successfully using python programming.
